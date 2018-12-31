@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Thou Art Art No More"
-date:   2018-01-20 12:48:27 -0700
+date:   2018-01-20 00:48:27 -0700
 ---
 
 So, a few months ago, I found myself at an Austin Bitcoin conference. I had been off the circuit for a few years, but my rambunctious Sancho Panza, Doogie Howser, had acquired more than a soupçon of tickets to recent conventions—just enough to be a proper Libertarian thermometer. 
@@ -28,11 +28,11 @@ I'm fairly certain if I ever bothered to open up the degree I graduated with, I'
 
 I've read _On Art_ at least six times in the past two years (largely trying to ensure that the translation was accurate). I've carried it around with me every day on my daily trek, tumbling on the train, glancing at it periodically when I've felt the need to refer back to a particular passage. 
 
-For the purposes of this article, we will not cover Tolstoy's application of a particular branch of moral principles that he uses to make judgements on particular works of art—as these sections seem to cause those in some form of disagreement (with the principles or the stigmas they may have associated with Tolstoy's terminology) recoil and pass over this otherwise agreeable theory. 
+For the purposes of this article, we will not cover Tolstoy's application of a particular branch of moral principles that he uses to make judgments on particular works of art—as these sections seem to cause those in some form of disagreement (with the principles or the stigmas they may have associated with Tolstoy's terminology) recoil and pass over this otherwise agreeable theory. 
 
 I'm convinced that it is the most cohesive, most complete theory of art to date, and it seems to have fallen by the wayside (or at least in the Western, English-speaking Philistine-plebeian realm I inhabit). The only rare references I have seen to it that bring it up the context of art in general pass over it somewhat to talk about other, chronological theories of art—this is a mistake. 
 
-The main essay (_What is Art_) has, as one of its main veins, the notion that art institutions are having a overall detrimental effect on the art  their students could potentially produce. I suppose it isn't too surprising that art institutions pass over theories of art that suggests to their students that art schools are bad. 
+The main essay (_What is Art_) has, as one of its main veins, the notion that art institutions are having a overall detrimental effect on the art their students could potentially produce. I suppose it isn't too surprising that art institutions pass over theories of art that suggests to their students that art schools are bad. 
 
 Without having to go too deep, the main theory is that art is that which communicates a unique (and uniting, with Tolstoy's moral constraints) emotional experience, whereby the emotion is in harmony with the form of which it is expressed. 
 

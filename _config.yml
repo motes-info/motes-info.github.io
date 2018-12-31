@@ -16,7 +16,7 @@
 title: motes
 # email: satoshin@gmx.com 
 description: >- # this means to ignore newlines until "baseurl:"
-  'motes' is simply a new word for an old, narrow definition of art.
+  'motes' is simply a new word for an old, narrow definition of art: that which communicates a unique emotional experience, whereby the emotion is in harmony with the form of which it is expressed.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://motes.info" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: doriannakamoto

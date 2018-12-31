@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+'_Mote_' is derived from the phrase '_emotional artifact_'—which is a brief encapsulation of the theory of art proposed by Leo Tolstoy in _On Art_.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Without having to go too deep, the main theory is that 'art' is that which communicates a unique (and uniting, given Tolstoy's moral constraints*) emotional experience, whereby the emotion is in harmony with the form of which it is expressed.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Because 'art' is a term that has been weighed upon by various philosophers and given differing meanings throughout the years such that it hardly means anything to anyone, I have abandoned the term and instead use the term 'mote' (to refer to a work of art).
 
 
-[jekyll-organization]: https://github.com/jekyll
+*I think it suffices to lift the moral constraint so that we can avoid debates on moral values; any works that _also_ meet some moral constraint(s) can be referred to as '_moral motes_.'

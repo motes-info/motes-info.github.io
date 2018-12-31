@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "'Art' is Dead—New Word: 'Motes'"
-date:   2018-05-10 10:23:48 -0700
+date:   2018-05-10 22:23:48 -0700
 ---
 
 I've found a term better than '_decomposing squabs_'.
