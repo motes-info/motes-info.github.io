@@ -34,7 +34,7 @@ I'm convinced that it is the most cohesive, most complete theory of art to date,
 
 The main essay (_What is Art_) has, as one of its main veins, the notion that art institutions are having a overall detrimental effect on the art their students could potentially produce. I suppose it isn't too surprising that art institutions pass over theories of art that suggests to their students that art schools are bad. 
 
-Without having to go too deep, the main theory is that art is that which communicates a unique (and uniting, with Tolstoy's moral constraints) emotional experience, whereby the emotion is in harmony with the form of which it is expressed. 
+Without having to go too deep, the main theory is that art is that which communicates a unique (and uniting, with Tolstoy's moral constraints) and genuine emotional experience, whereby the emotion is in harmony with the form of which it is expressed. 
 
 Tolstoy does go on to say that there's three key ways of counterfeiting art: imitation, striking, and interest. For clarity, we'll define them in terms of appeals. We have (1) "appeal to familiarity," whereby an imitator makes a bad reflection of the art of others that the viewer already recognizes as art. (2) "Appeal to the sensory"; this takes the form of using a medium to convey that which is much more easily conveyed in another medium. (3) "Appeal to the intellect"; aka _Inception_. 
 
