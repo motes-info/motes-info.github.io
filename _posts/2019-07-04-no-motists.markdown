@@ -17,7 +17,7 @@ The three main techniques that that students learn by osmosis:
 * Appeals to the sensory (striking): whereby one uses one medium to convey that which is better conveyed through another medium.
 * Appeals to the intellect: whereby one produces works that operate on conceptual levels rather than emotional ones.
 
-The way I see it is that if we make a central tenet of _motism_ that there can be no _motists_ (those that identify and label themselves as those who produce _motes_), then we will have relieved the pressure of requiring individuals to feel compelled to produce _motes_, which eliminates the necessity for techniques for mass-producing works.
+The way I see it is that if we make a central tenet of _motism_ that there can be no _motists_ (those that identify and label themselves as those who produce _motes_), then we will have relieved the pressure of requiring individuals to feel compelled to produce _motes_, which eliminates the necessity for techniques in mass-producing works.
 
 There can be no _motists_. There are only individual human beings.
 
